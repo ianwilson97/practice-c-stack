@@ -1,4 +1,5 @@
 #include <stdio.h>
+//simple stack implementation
 #define MAX_SIZE 101
 int A[MAX_SIZE];
 
